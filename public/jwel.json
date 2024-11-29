@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "jewelry_name": "Diamond Ring",
+    "category": "Ring",
+    "image": "https://i.ibb.co.com/JRNRczt/ring1.png",
+    "short_details": "A stunning diamond ring crafted in white gold.",
+    "price": 999.99,
+    "ratings": 4.8
+  },
+  {
+    "id": 2,
+    "jewelry_name": "White Diamond Ring",
+    "category": "Ring",
+    "image": "https://i.ibb.co.com/BLMxGcX/ring2.jpg",
+    "short_details": "A stunning diamond ring crafted in white gold.",
+    "price": 999.99,
+    "ratings": 4.8
+  },
+  {
+    "id": 3,
+    "jewelry_name": "Wedding Ring",
+    "category": "Ring",
+    "image": "https://i.ibb.co.com/XLb0YJ1/wedding-ring-1236640-1280-1.jpg",
+    "short_details": "A stunning diamond ring crafted in white gold.",
+    "price": 999.99,
+    "ratings": 4.8
+  },
+  {
+    "id": 4,
+    "jewelry_name": "Gold Ring",
+    "category": "Ring",
+    "image": "https://i.ibb.co.com/LrrqRJh/ring-2807717-1280-1.jpg",
+    "short_details": "A stunning diamond ring crafted in white gold.",
+    "price": 999.99,
+    "ratings": 4.8
+  },
+  {
+    "id": 5,
+    "jewelry_name": "Velvet Ring",
+    "category": "Ring",
+    "image": "https://i.ibb.co.com/P9x3Qc6/ring4.jpg",
+    "short_details": "A stunning diamond ring crafted in white gold.",
+    "price": 999.99,
+    "ratings": 4.8
+  },
+  {
+    "id": 6,
+    "jewelry_name": "White Ring",
+    "category": "Ring",
+    "image": "https://i.ibb.co.com/cgcV4PR/ring3.jpg",
+    "short_details": "A stunning diamond ring crafted in white gold.",
+    "price": 999.99,
+    "ratings": 4.8
+  },
+  {
+    "id": 7,
+    "jewelry_name": "Gold Necklace",
+    "category": "Necklace",
+    "image": "https://i.ibb.co.com/ryNPtDD/img14.jpg",
+    "short_details": "Elegant gold necklace with intricate designs.",
+    "price": 1499.99,
+    "ratings": 4.7
+  },
+  {
+    "id": 8,
+    "jewelry_name": "Diamond Necklace",
+    "category": "Necklace",
+    "image": "https://i.ibb.co.com/3csg1Gg/img6.jpg",
+    "short_details": "Elegant gold necklace with intricate designs.",
+    "price": 1499.99,
+    "ratings": 4.7
+  },
+  {
+    "id": 9,
+    "jewelry_name": "Green Diamond",
+    "category": "Necklace",
+    "image": "https://i.ibb.co.com/SKkBYwZ/img9.jpg",
+    "short_details": "Elegant gold necklace with intricate designs.",
+    "price": 1499.99,
+    "ratings": 4.7
+  },
+  {
+    "id": 10,
+    "jewelry_name": "White Diamond",
+    "category": "Necklace",
+    "image": "https://i.ibb.co.com/XFkC9tV/img10.jpg",
+    "short_details": "Elegant gold necklace with intricate designs.",
+    "price": 1499.99,
+    "ratings": 4.7
+  },
+
+  {
+    "id": 11,
+    "jewelry_name": "Ruby Pendant",
+    "category": "Necklace",
+    "image": "https://i.ibb.co.com/3W5KB0X/set.jpg",
+    "short_details": "A vibrant ruby pendant in a classic setting.",
+    "price": 849.99,
+    "ratings": 4.9
+  },
+
+  {
+    "id": 12,
+    "jewelry_name": "Diamond Crown",
+    "category": "Crown",
+    "image": "https://i.ibb.co.com/68sMnxW/crown1.jpg",
+    "short_details": "A regal crown encrusted with crystals and gemstones.",
+    "price": 1999.99,
+    "ratings": 4.9
+  },
+  {
+    "id": 13,
+    "jewelry_name": "Ruby Crown",
+    "category": "Crown",
+    "image": "https://i.ibb.co.com/fd6F80Q/crown2.jpg",
+    "short_details": "A regal crown encrusted with crystals and gemstones.",
+    "price": 1999.99,
+    "ratings": 4.9
+  },
+  {
+    "id": 14,
+    "jewelry_name": "Velvet Crown",
+    "category": "Crown",
+    "image": "https://i.ibb.co.com/PYthRWz/crown3.jpg",
+    "short_details": "A regal crown encrusted with crystals and gemstones.",
+    "price": 1999.99,
+    "ratings": 4.9
+  },
+  {
+    "id": 15,
+    "jewelry_name": "Gold Crown",
+    "category": "Crown",
+    "image": "https://i.ibb.co.com/wSLSbMx/crown4.jpg",
+    "short_details": "A regal crown encrusted with crystals and gemstones.",
+    "price": 1999.99,
+    "ratings": 4.9
+  }
+]
